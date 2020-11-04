@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Search TvShows</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="tab_tv_shows">Tv Shows</string>
+    <string name="tab_Moview">Movies</string>
+    <string name="tab_Movies">Movies</string>
+</resources>
